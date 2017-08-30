@@ -1,0 +1,6 @@
+******************************************************
+                      Stop Mode                       	
+single---------------------------------stop a process
+all--------------------------------stop all processes
+exit-----------------------------------return to menu
+help-------------------help you to check the commands

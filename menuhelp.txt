@@ -1,0 +1,6 @@
+*****************************menuhelp********************************
+-set----------------------------------------------set a/some process
+-create------'-create NAME SPER RUNTIME'----------create a process
+-running------------------------------------run all of the process(es)
+-show---------------------------------------check the process(es)
+-exit---------------------------------------exit the program
